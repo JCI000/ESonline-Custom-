@@ -894,7 +894,7 @@
             <size>0.365 0.001</size>
             <path>${spacerImage}</path>
             <color>ffffff00</color>
-            <zIndex>11</zIndex>
+            <zIndex>10</zIndex>
          </image>
          <image name="lhsedge1a">
             <origin>0 0</origin>
